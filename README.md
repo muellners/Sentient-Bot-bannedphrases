@@ -1,5 +1,5 @@
 # Sentient-Bot-bannedphrases
-List-of-Dirty-Banned-Obscene-Slang-Words-for-GenerativeAI
+List-of-Dirty-Banned-Obscene-Slang-Words-for-GenerativeAI responses.
 
 List of phrases that are banned for generative AI used in the digital public goods and services deployed on the defined Open Constitution Network. This list has been used in the virtual assistant: Sentient Bot.
 
